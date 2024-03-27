@@ -1,0 +1,24 @@
+{
+	"name": "my-format-package",
+	"version": "1.0.1",
+	"type": "module",
+	"description": "npm package",
+	"main": "src/index.js",
+	"files": [
+		"src"
+	],
+	"scripts": {
+		"dev": "node ./index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"summa",
+		"pdp",
+		"javascript",
+		"typescript",
+		"formatphonenumber",
+		"java"
+	],
+	"author": "Jahongir",
+	"license": "MIT"
+}
