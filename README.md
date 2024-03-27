@@ -1,5 +1,5 @@
-## Create npm package first
+## Create npm package 
 
     ✅ npm run login
-    
+
     ✅ npm publish
